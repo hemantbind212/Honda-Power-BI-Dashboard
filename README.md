@@ -41,7 +41,7 @@ The dashboard provides the following insights:
 ![Dashboard Screenshot](Screenshots/2.dashboard.png)
 ![Dashboard Screenshot](Screenshots/3.data-table.png)
 
-## 🚀 How to Use
+## How to Use
 1. Download the `.pbix` file from this repository.
 2. Open the file using **Power BI Desktop**.
 3. Interact with filters, charts, and visuals to explore insights.
