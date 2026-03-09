@@ -37,7 +37,7 @@ The dashboard provides the following insights:
 - Interactive Data Visualization
 
 ## Dashboard Preview
-![Dashboard Screenshot]()
+![Dashboard Screenshot](https://github.com/hemantbind212/Honda-Power-BI-Dashboard/tree/main/Screenshots)
 
 ## 🚀 How to Use
 1. Download the `.pbix` file from this repository.
